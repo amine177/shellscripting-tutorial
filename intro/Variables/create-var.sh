@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+MYVAR="CREATED BY CHILD"
