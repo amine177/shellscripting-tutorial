@@ -2,9 +2,9 @@
 
 
 printf "Number of total args (excluding script name) is %d\n" "$#"
-printf "Script name is %s\n" "$0"
+printf "My complete path is %s\n\n" "$0"
 
-printf "all args\n"
+printf "==== all args ====\n"
 c=0
 for i in $@
 do
